@@ -24,4 +24,16 @@ touch C:/Users/User/Desktop/Vova/DateAndGroupNumber/Group.txt
 #
 echo 151 | tee C:/Users/User/Desktop/Vova/DateAndGroupNumber/Group.txt
 #
+<<<<<<< HEAD
 #END
+=======
+touch C:/Users/User/Desktop/Vova/DateAndGroupNumber/Date.txt
+#
+echo 03.12.21 | tee C:/Users/User/Desktop/Vova/DateAndGroupNumber/Date.txt
+#
+#END
+
+
+
+
+>>>>>>> 5b4d11489fff8cf47c655aa6167f291bc3e52a6c
